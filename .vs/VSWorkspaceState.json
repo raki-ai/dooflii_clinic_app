@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\modules",
+    "\\lib\\modules\\registration",
+    "\\lib\\screens",
+    "\\lib\\screens\\home_screens"
+  ],
+  "SelectedNode": "\\lib\\modules\\registration\\registration_entry_screen.dart",
+  "PreviewInSolutionExplorer": false
+}
